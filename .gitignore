@@ -2,3 +2,6 @@
 /src/vendor/
 /phpbb/cache/*
 /phpbb/logs/*
+/.settings
+/.buildpath
+/.project
