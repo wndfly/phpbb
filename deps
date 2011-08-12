@@ -34,7 +34,7 @@
     git=http://github.com/fabpot/Twig-extensions.git
 
 [metadata]
-    git=http://github.com/schmittjoh/metadata.git
+    git=http://github.com/schmittjoh/metadata.gitfsf
     version=1.0.0
 
 [SensioFrameworkExtraBundle]
